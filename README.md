@@ -2,7 +2,7 @@
 
 Voici mon API REST de gestion de serveurs en Python 3.10 + pip.
 
-La base de donnée sera un fichier JSON local.
+La base de donnée est un fichier JSON local ci-joint.
 
 Cet API peut : 
 - Lister tout les serveurs.
